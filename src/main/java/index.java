@@ -6,6 +6,6 @@ public class index {
         System.out.println("only dev");
         System.out.println("dev 2");
         System.out.println("new feat");
-        System.out.println("new feat3");
+        System.out.println("new feat2");
     }
 }
