@@ -9,5 +9,6 @@ public class index {
         System.out.println("new feat2");
         System.out.println("new feat333");
         System.out.println("new feat4");
+        System.out.println("delete");
     }
 }
