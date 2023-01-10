@@ -4,5 +4,6 @@ public class index {
         System.out.println("hello");
         System.out.println("my name is");
         System.out.println("only dev");
+        System.out.println("dev 2");
     }
 }
