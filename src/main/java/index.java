@@ -5,5 +5,6 @@ public class index {
         System.out.println("my name is");
         System.out.println("only dev");
         System.out.println("dev 2");
+        System.out.println("new feat");
     }
 }
